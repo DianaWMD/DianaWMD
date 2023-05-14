@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning Web and Mobile Development
 <!--
 **DianaWMD/DianaWMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
